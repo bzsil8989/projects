@@ -3,4 +3,4 @@ import sys
 import json
  
 if len(sys.argv) == 2:
-    command = sys.argv[1]
+    command = sys.argv[1]ss
